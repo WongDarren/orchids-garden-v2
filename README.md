@@ -1,6 +1,8 @@
-# Next.js with TypeScript and Tailwind CSS Starter
+# Orchids Garden v2
 
-This is a starter repository for building web applications with Next.js using TypeScript and Tailwind CSS.
+### Using Next.js with TypeScript and Tailwind CSS Starter
+
+This is an app using the Next.js with TypeScript and Tailwind CSS Starter
 
 ## Features
 
@@ -9,10 +11,6 @@ This is a starter repository for building web applications with Next.js using Ty
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
 - [ESLint](https://eslint.org/) - A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 - [Prettier](https://prettier.io/) - A code formatter to enforce consistent code style.
-
-## Getting Started
-
-To get started with this starter repository, you can simply click the "Use this template" button on GitHub to create a new repository with the same file structure and contents.
 
 ## Installation
 

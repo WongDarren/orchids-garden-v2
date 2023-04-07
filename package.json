@@ -1,32 +1,35 @@
 {
-  "name": "next-tsx-tailwind-starter",
+  "name": "orchids-garden-v2",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "npx eslint .",
     "format": "npx prettier --write ."
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.12",
-    "@heroicons/react": "^2.0.16",
-    "@types/node": "18.14.6",
-    "@types/react": "18.0.28",
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^2.0.17",
+    "@supabase/supabase-js": "^2.14.0",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.33",
     "@types/react-dom": "18.0.11",
-    "next": "13.2.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "4.9.5"
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "eslint": "8.35.0",
-    "eslint-config-next": "13.2.3",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.37.0",
+    "eslint-config-next": "13.3.0",
     "postcss": "^8.4.21",
-    "prettier": "2.8.4",
-    "prettier-plugin-tailwindcss": "^0.2.3",
-    "tailwindcss": "^3.3.0"
+    "prettier": "2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.7",
+    "tailwindcss": "^3.3.1",
+    "typescript": "^5.0.3"
   }
 }
