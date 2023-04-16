@@ -12,4 +12,5 @@ const tailwindConfig = {
   },
   plugins: []
 };
+
 export default tailwindConfig;
